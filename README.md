@@ -25,7 +25,7 @@ Um app bem simples em **Flask** para eu praticar Python e registrar minha evolu�
 - Flask
 - (futuro) SQLite / SQLAlchemy
 
-## 📚 Diário de Aprendizado
+## Diário de Aprendizado
 
 ### Dia 1
 
